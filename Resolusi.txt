@@ -1,3 +1,4 @@
 Hallo semua ini adalah git pertama saya 
 - membuat repo github
 - membuat commit baru 
+- halo
