@@ -1,0 +1,3 @@
+Hallo semua ini adalah git pertama saya 
+- membuat repo github
+- menambah source code ke github
